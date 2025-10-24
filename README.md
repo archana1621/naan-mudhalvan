@@ -19,7 +19,7 @@ Tech Stack
 
 Setup Instructions
 Clone the Repository
-  https://github.com/harini-0303/Naan-Mudhalvan.git
+ https://github.com/archana1621/naan-mudhalvan.git
   cd real-time-chat-app
 
 Install Dependencies
@@ -42,9 +42,8 @@ Project Structure
     ├─ package.json    
 
 Deployment:
-  https://harini-0303.github.io/Naan-Mudhalvan/
-
+  
 Developer
-  Developed by HARINI
+  Developed by ARCHANA
   Purpose: Naan Mudhalvan
   GitHub: harini-0303
